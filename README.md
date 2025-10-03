@@ -47,4 +47,5 @@ Linked list programs
 More real-world data structure applications
 👩‍💻 Author
 
-Gayathri Ravi 🎓 Student at Global Academy of Technology 💻 Aspiring AI & Data Science Engineer 🔗 LinkedIn Profile https://www.linkedin.com/in/gayathri-ravi-ai-datascience/
+Mohan Kumar M 
+https://www.linkedin.com/in/gayathri-ravi-ai-datascience/
