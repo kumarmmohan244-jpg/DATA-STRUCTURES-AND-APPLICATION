@@ -47,5 +47,5 @@ Linked list programs
 More real-world data structure applications
 👩‍💻 Author
 
-Mohan Kumar M 
+Mohan Kumar M 🎓 Student at Global Academy of Technology 💻 Aspiring AI & Data Science Engineer 🔗 LinkedIn Profile
 https://www.linkedin.com/in/mohan-kumar-m-941746388?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
