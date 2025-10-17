@@ -37,16 +37,16 @@ void dequeue(QUEUE *q)
     }
 }
 
-void display(QUEUE *q)
+void display(QUEUE q)
 {
     int i;
-    if (q->f == -1)
+    if (q.f == -1)
         printf("\nQueue is empty");
     else
     {
         printf("\nQueue contents:\n");
-        for (i = q->f; i <= q->r; i++)
-            printf("%d\t", q->data[i]);
+        for (i = q.f; i <= q.r; i++)
+            printf("%d\t", q.data[i]);
     }
 }
 
