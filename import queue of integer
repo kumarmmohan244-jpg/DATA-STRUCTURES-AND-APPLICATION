@@ -70,7 +70,7 @@ int main()
                 break;
         case 2:dequeue(&q);
                 break;
-        case 3:display(&q);
+        case 3:display(q);
                 break;
         default:exit(0);
         }
